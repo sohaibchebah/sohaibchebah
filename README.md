@@ -1,4 +1,4 @@
-## Hi there, I'm [Chebah Sohaib] 👋
+## Hi there, I'm Chebah Sohaib 👋
 I am a passionate frontend developer specializing in React and Next.js. I love creating efficient, scalable, and visually appealing web applications.
 ## 🌱 Currently Learning
 - Advanced React patterns and hooks
@@ -24,6 +24,8 @@ I am a passionate frontend developer specializing in React and Next.js. I love c
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
