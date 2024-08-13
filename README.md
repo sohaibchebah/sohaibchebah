@@ -2,6 +2,7 @@
 I am a passionate frontend developer specializing in React and Next.js. I love creating efficient, scalable, and visually appealing web applications.
 ## 🌱 Currently Learning
 - Advanced React patterns and hooks
+- Web performance
 - React testing
 -  Progressive Web Apps (PWAs)
 ## 💬 Ask me about
